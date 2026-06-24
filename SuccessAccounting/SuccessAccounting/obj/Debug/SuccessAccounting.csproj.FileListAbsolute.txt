@@ -1,0 +1,9 @@
+C:\Users\ilasa\Desktop\Производственная практика\SuccessAccounting\SuccessAccounting\bin\Debug\SuccessAccounting.exe.config
+C:\Users\ilasa\Desktop\Производственная практика\SuccessAccounting\SuccessAccounting\bin\Debug\SuccessAccounting.exe
+C:\Users\ilasa\Desktop\Производственная практика\SuccessAccounting\SuccessAccounting\bin\Debug\SuccessAccounting.pdb
+C:\Users\ilasa\Desktop\Производственная практика\SuccessAccounting\SuccessAccounting\obj\Debug\SuccessAccounting.csproj.AssemblyReference.cache
+C:\Users\ilasa\Desktop\Производственная практика\SuccessAccounting\SuccessAccounting\obj\Debug\SuccessAccounting.Properties.Resources.resources
+C:\Users\ilasa\Desktop\Производственная практика\SuccessAccounting\SuccessAccounting\obj\Debug\SuccessAccounting.csproj.GenerateResource.cache
+C:\Users\ilasa\Desktop\Производственная практика\SuccessAccounting\SuccessAccounting\obj\Debug\SuccessAccounting.csproj.CoreCompileInputs.cache
+C:\Users\ilasa\Desktop\Производственная практика\SuccessAccounting\SuccessAccounting\obj\Debug\SuccessAccounting.exe
+C:\Users\ilasa\Desktop\Производственная практика\SuccessAccounting\SuccessAccounting\obj\Debug\SuccessAccounting.pdb
